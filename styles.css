@@ -1,0 +1,17 @@
+h1{
+    margin: auto;
+    font-family: sans-serif;
+    text-align: center;
+    width: 20%;
+    background-color: seagreen;
+
+  }
+  h2{
+    margin: auto;
+
+  }
+  .line-left {
+    height: 1px;
+    width: auto;
+    background-color: black;
+  }
