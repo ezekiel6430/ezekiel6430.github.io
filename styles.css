@@ -1,7 +1,8 @@
 body {
   width: 50%;
-  background-color: black;
-  margin: auto;
+  background-image: url(https://th.bing.com/th/id/R.7cc341cd550a9e4692ec1cebf0c7438c?rik=vEurLIgv73zOAQ&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fc%2f5%2f5%2f980580-amazing-starcraft-2-hd-wallpapers-3840x2160.jpg&ehk=cDXNIWC22m%2b5JhpySPcYv7VYPqM2Zu3xbXp%2bdkigSTE%3d&risl=&pid=ImgRaw&r=0);
+  margin-left: auto;
+  margin-right: auto;
 }
 div {
   background-color: rgb(51, 51, 51);
@@ -41,10 +42,14 @@ h1{
   }
   p{
     font-size: 25px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
   }
   .line-2{
     height: 1px;
     width: auto;
     background-color: black;
+  }
+  img{
+    margin-left: auto;
+    margin-right: auto;
   }
