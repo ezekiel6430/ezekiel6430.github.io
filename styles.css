@@ -34,7 +34,7 @@ h2{
   font-family: cursive;
   color: white;
   text-align: center;
-  width: 50%;
+  width: 70%;
 
 }
 .line-left {
@@ -62,9 +62,4 @@ p{
 img{
   margin-left: auto;
   margin-right: auto;
-}
-.line-5{
-  height: 1px;
-  width: auto;
-  background-color: rgb(51, 51, 51);
 }
